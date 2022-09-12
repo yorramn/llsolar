@@ -1,0 +1,11 @@
+//require("./chart-1");
+//require("./chart-2");
+require("./dropdown")
+require("./fixed-plugin");
+require("./nav-pills")
+require("./navbar-collapse");
+require("./navbar-sticky")
+require("./perfect-scrollbar");
+require("./sidenav-burger")
+require("./soft-ui-dashboard-tailwind");
+require("./tooltips");

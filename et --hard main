@@ -1,0 +1,146 @@
+[33mcommit 80eaa56b13178d76f372d940e595fcbda7ef2443[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;32malisson[m[33m)[m
+Author: alissonlsantos <alisson.lsantos@outlook.com>
+Date:   Wed Jul 6 20:52:14 2022 -0300
+
+    atualizacao de template
+
+[33mcommit 2c557005c46999e0265e4f9a43fe1c62b0d904c8[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d761454 3d25689
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Wed Jul 6 16:19:36 2022 -0300
+
+    Merge pull request #3 from yorramn/cadastro_cliente_titular
+    
+    Cadastro cliente titular e anexos
+
+[33mcommit 3d25689f30400d30a7dc59bb07352872514328ee[m[33m ([m[1;31morigin/cadastro_cliente_titular[m[33m)[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Wed Jul 6 14:30:16 2022 -0300
+
+    feat: anexos completos
+
+[33mcommit b65e8ac52cff4872f058032164e0d517cd0fa041[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 16:47:27 2022 -0300
+
+    feat: permissões
+
+[33mcommit fe618214449c91641ce5618f04226a50fd539383[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 15:58:57 2022 -0300
+
+    inicio das permissões
+
+[33mcommit b169ffbebde747f7f01479bd7086c92e3c919cd8[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 14:53:30 2022 -0300
+
+    feat: anexos
+
+[33mcommit b6cca70adc58adc81914be0ed401b30fac875411[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 12:23:09 2022 -0300
+
+    feating: attachments
+
+[33mcommit ac780ead6a50abd915806710aa507177ad6ce40d[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 11:12:03 2022 -0300
+
+    feat: dependentes e titular
+
+[33mcommit d76145424e696ecb41b66daa59e345353f5513a9[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jul 5 09:33:06 2022 -0300
+
+    para stash
+
+[33mcommit 3c20fbeccae9710f74fded5f05c78ac8ec99f323[m
+Merge: cca28a9 48627eb
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Mon Jul 4 18:11:30 2022 -0300
+
+    Merge pull request #2 from yorramn/cadastro_cliente_endereco
+    
+    Cadastro cliente endereco
+
+[33mcommit 48627eb16b3daec4675f48d33b9391c29d07c440[m[33m ([m[1;31morigin/cadastro_cliente_endereco[m[33m)[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Mon Jul 4 18:10:25 2022 -0300
+
+    feat: cliente para visualização
+
+[33mcommit b4a1ab610d41c3a8d5d1940441d40275b2199f48[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Mon Jul 4 17:09:59 2022 -0300
+
+    feat: cliente para visualização
+
+[33mcommit 98c2de991900270637ad59e80a3d65a41a1d6376[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Mon Jul 4 15:42:01 2022 -0300
+
+    feat:dependents
+
+[33mcommit ce037c833f68508cb7180d30886b8fd9291c0e34[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Mon Jul 4 13:25:41 2022 -0300
+
+    feat: cadastro de endereço do cliente
+
+[33mcommit 0b71c4ca965210ce91ed5ac0e7c3e24ab6c3abb2[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Mon Jul 4 13:21:25 2022 -0300
+
+    feat: cadastro de endereço do cliente
+
+[33mcommit cca28a9341b3f98d540fa0bde6d24ef16712186a[m
+Merge: 7e6e23b 03e5bd6
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Thu Jun 30 22:55:44 2022 -0300
+
+    Merge pull request #1 from yorramn/cadastro_cliente
+    
+    feat: criação das rules, messages e correção dos campos e erros do formulário
+
+[33mcommit 03e5bd6ffeab9fceb0582d2c794537500cd86535[m[33m ([m[1;31morigin/cadastro_cliente[m[33m)[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Thu Jun 30 22:53:52 2022 -0300
+
+    feat: criação das rules, messages e correção dos campos e erros do formulário
+
+[33mcommit 7e6e23b57dfc7f1510478f6c4a6e7592a187d206[m
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Wed Jun 29 11:13:44 2022 -0300
+
+    Update README.md
+
+[33mcommit 188fa273ad8383eb451b706591428640dfbbc5d1[m
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Tue Jun 28 22:36:45 2022 -0300
+
+    Update docker-compose.yml
+
+[33mcommit fcb97425754bb035fffd952c208aea35c64f52bc[m
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Tue Jun 28 22:35:29 2022 -0300
+
+    Update README.md
+
+[33mcommit 2fc36407cc9eb6de07ff632256f190de5271f00a[m
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Tue Jun 28 22:34:23 2022 -0300
+
+    Update README.md
+
+[33mcommit 70a30c754426f27abc975dd9068df2f813cda362[m
+Author: yorramn <78487011+yorramn@users.noreply.github.com>
+Date:   Tue Jun 28 22:31:55 2022 -0300
+
+    Update README.md
+
+[33mcommit 679a38da794d6c322cf5acc748f57aef8924703a[m
+Author: yorramn <bielyorramn@gmail.com>
+Date:   Tue Jun 28 22:30:13 2022 -0300
+
+    setup inicial
