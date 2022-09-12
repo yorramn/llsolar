@@ -38,7 +38,7 @@ services:
     container_name: llsolar-nginx
     image: nginx:alpine
     ports:
-      - 8005:80
+      - "80:80"
     depends_on:
       - mysql
       - app
